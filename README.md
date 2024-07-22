@@ -1,58 +1,38 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=TB" alt="Tim Boerner" style="border-radius:50%; border: 2px solid #3498db;">
-  
-  # Tim Boerner
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Tech+Innovator)](https://git.io/typing-svg)
-  
-  [ [LinkedIn](https://linkedin.com/in/tmbrnr) ] • [ [Email](mailto:tim@boernergroup.de) ]
-  
-  ---
+  <h1 style="border-bottom: 1px solid #4a4a4a; padding-bottom: 20px;">
+    Tim Boerner
+  </h1>
 
-  ### About Me
-  
-  🚀 Bridging the gap between code and business.<br>
-  💡 Turning complex problems into elegant solutions.<br>
-  🌟 Always learning, always growing.
+  <p style="font-size: 1.2em; color: #4a4a4a;">
+    Full Stack Developer | AI Enthusiast | Tech Innovator
+  </p>
 
-  ---
+  <div style="margin: 20px 0;">
+    <a href="https://linkedin.com/in/tmbrnr" style="text-decoration: none; background: #0077B5; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 10px;">LinkedIn</a>
+    <a href="mailto:tim@boernergroup.de" style="text-decoration: none; background: #D14836; color: white; padding: 5px 10px; border-radius: 5px;">Email</a>
+  </div>
 
-  ### Tech Palette
+  <h2 style="margin-top: 30px; font-size: 1.5em; color: #24292e;">Tech Stack</h2>
 
-  <img src="https://via.placeholder.com/48x48/61DAFB/FFFFFF?text=R" alt="React" title="React" />
-  <img src="https://via.placeholder.com/48x48/339933/FFFFFF?text=N" alt="Node.js" title="Node.js" />
-  <img src="https://via.placeholder.com/48x48/4EA94B/FFFFFF?text=M" alt="MongoDB" title="MongoDB" />
-  <img src="https://via.placeholder.com/48x48/316192/FFFFFF?text=S" alt="SQL" title="SQL" />
-  <img src="https://via.placeholder.com/48x48/4285F4/FFFFFF?text=G" alt="GCP" title="Google Cloud Platform" />
-  <img src="https://via.placeholder.com/48x48/412991/FFFFFF?text=AI" alt="AI" title="AI/ML" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <code style="background: #E34F26; color: white; padding: 5px 10px; border-radius: 5px;">React</code>
+    <code style="background: #339933; color: white; padding: 5px 10px; border-radius: 5px;">Node.js</code>
+    <code style="background: #4EA94B; color: white; padding: 5px 10px; border-radius: 5px;">MongoDB</code>
+    <code style="background: #336791; color: white; padding: 5px 10px; border-radius: 5px;">SQL</code>
+    <code style="background: #4285F4; color: white; padding: 5px 10px; border-radius: 5px;">GCP</code>
+    <code style="background: #412991; color: white; padding: 5px 10px; border-radius: 5px;">AI/ML</code>
+  </div>
 
-  ---
+  <h2 style="margin-top: 30px; font-size: 1.5em; color: #24292e;">Current Focus</h2>
 
-  ### Current Canvas
+  <ul style="list-style-type: none; padding: 0;">
+    <li>Advanced AI in web development</li>
+    <li>Serverless architecture</li>
+    <li>React performance optimization</li>
+    <li>Machine learning for predictive analytics</li>
+  </ul>
 
-  🎨 Painting with AI in web development<br>
-  🏗️ Architecting serverless solutions<br>
-  ⚡ Optimizing React performance<br>
-  🔮 Predicting the future with ML
-
-  ---
-
-  ### Fun Fact
-
-  🎤 Once captivated 200+ minds at a tech talk on AI strategies!
-
-  ---
-
-  ### Languages
-
-  🇩🇪 German (Native) • 🇬🇧 English (Fluent)
-
-  ---
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TmBrnr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  ---
-
-  *"Code is poetry, let's write a masterpiece together!"*
-
+  <p style="margin-top: 30px; font-style: italic; color: #6a737d;">
+    "Bridging the gap between code and business, one line at a time."
+  </p>
 </div>
