@@ -1,38 +1,46 @@
 <div align="center">
-  <h1 style="border-bottom: 1px solid #4a4a4a; padding-bottom: 20px;">
-    Tim Boerner
-  </h1>
 
-  <p style="font-size: 1.2em; color: #4a4a4a;">
-    Full Stack Developer | AI Enthusiast | Tech Innovator
-  </p>
+# Tim Boerner
 
-  <div style="margin: 20px 0;">
-    <a href="https://linkedin.com/in/tmbrnr" style="text-decoration: none; background: #0077B5; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 10px;">LinkedIn</a>
-    <a href="mailto:tim@boernergroup.de" style="text-decoration: none; background: #D14836; color: white; padding: 5px 10px; border-radius: 5px;">Email</a>
-  </div>
+<sub>Full Stack Developer | AI Enthusiast | Tech Innovator</sub>
 
-  <h2 style="margin-top: 30px; font-size: 1.5em; color: #24292e;">Tech Stack</h2>
+[LinkedIn](https://linkedin.com/in/tmbrnr) • [Email](mailto:tim@boernergroup.de)
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <code style="background: #E34F26; color: white; padding: 5px 10px; border-radius: 5px;">React</code>
-    <code style="background: #339933; color: white; padding: 5px 10px; border-radius: 5px;">Node.js</code>
-    <code style="background: #4EA94B; color: white; padding: 5px 10px; border-radius: 5px;">MongoDB</code>
-    <code style="background: #336791; color: white; padding: 5px 10px; border-radius: 5px;">SQL</code>
-    <code style="background: #4285F4; color: white; padding: 5px 10px; border-radius: 5px;">GCP</code>
-    <code style="background: #412991; color: white; padding: 5px 10px; border-radius: 5px;">AI/ML</code>
-  </div>
+</div>
 
-  <h2 style="margin-top: 30px; font-size: 1.5em; color: #24292e;">Current Focus</h2>
+---
 
-  <ul style="list-style-type: none; padding: 0;">
-    <li>Advanced AI in web development</li>
-    <li>Serverless architecture</li>
-    <li>React performance optimization</li>
-    <li>Machine learning for predictive analytics</li>
-  </ul>
+<div align="center">
 
-  <p style="margin-top: 30px; font-style: italic; color: #6a737d;">
-    "Bridging the gap between code and business, one line at a time."
-  </p>
+### Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Current Focus
+
+`AI in Web Dev` • `Serverless Architecture` • `React Optimization` • `ML for Analytics`
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>🇩🇪 German (Native) • 🇬🇧 English (Fluent)</sub>
+
+<br>
+
+<sub>*"Bridging code and business to craft elegant solutions."*</sub>
+
 </div>
