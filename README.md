@@ -26,21 +26,13 @@ I'm a seasoned developer bridging technical and business needs, currently workin
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-### 📈 GitHub Stats
+### 🌱 Current Focus
 
-<a href="https://github.com/TmBrnr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TmBrnr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tim's GitHub Stats" />
-</a>
+I'm currently exploring advanced AI applications in CRM systems and working on enhancing my skills in:
 
-### 🌟 Featured Projects
-
-<a href="https://github.com/TmBrnr/ai-crm-extension">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TmBrnr&repo=ai-crm-extension&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/TmBrnr/recipe-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TmBrnr&repo=recipe-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+- Large Language Models (LLMs) for business applications
+- Serverless architectures for scalable CRM solutions
+- Advanced data analytics for customer insights
 
 ### 📫 Get in Touch
 
@@ -50,3 +42,14 @@ I'm a seasoned developer bridging technical and business needs, currently workin
 ### 💡 Fun Fact
 
 I've led a masterclass on practical CRM strategies and KPI success measurement, attended by over 200 people!
+
+### 🌍 Languages
+
+- German (Native)
+- English (Fluent)
+
+---
+
+<p align="center">
+  <i>Open to collaborations and exciting projects in CRM, AI, and web development!</i>
+</p>
