@@ -1,49 +1,67 @@
-# Tim Boerner
-### Full Stack Developer | AI Enthusiast | Berlin
+<h1 align="center">Tim Boerner</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Berlin</h3>
 
-<p>
-  <a href="https://linkedin.com/in/tmbrnr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:tim@boernergroup.de"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=TmBrnr&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  <a href="https://linkedin.com/in/tmbrnr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tim@boernergroup.de"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TmBrnr&style=for-the-badge&color=blue" alt=""/>
 </p>
 
+<p align="center">
 Versatile full-stack developer passionate about bridging technical solutions and business needs. Specializing in innovative web applications, AI solutions, and optimizing business processes through technology.
+</p>
 
-### 💼 Professional Highlights
-- 🌐 Scalable web apps with React & Node.js
-- 🧠 AI-powered automation solutions
-- 📊 Data-driven business intelligence tools
-- 🚀 Agile team leadership
+<h3 align="center">💼 Professional Highlights</h3>
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<p align="center">
+🌐 Scalable web apps with React & Node.js<br>
+🧠 AI-powered automation solutions<br>
+📊 Data-driven business intelligence tools<br>
+🚀 Agile team leadership
+</p>
 
-### 🌱 Current Focus
-- Advanced AI in web development
-- Serverless architecture
-- React performance optimization
-- Machine learning for predictive analytics
+<h3 align="center">🛠️ Tech Stack</h3>
 
-### 🌍 Languages
-- German (Native)
-- English (Fluent)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
-### 💡 Fun Fact
+<h3 align="center">🌱 Current Focus</h3>
+
+<p align="center">
+Advanced AI in web development<br>
+Serverless architecture<br>
+React performance optimization<br>
+Machine learning for predictive analytics
+</p>
+
+<h3 align="center">🌍 Languages</h3>
+
+<p align="center">
+German (Native) • English (Fluent)
+</p>
+
+<h3 align="center">💡 Fun Fact</h3>
+
+<p align="center">
 I once spoke at a tech conference about practical AI implementation strategies, sharing insights with over 200 attendees!
-
----
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TmBrnr&theme=dark" alt="TmBrnr's GitHub streak"/>
