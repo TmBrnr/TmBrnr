@@ -26,6 +26,18 @@ I'm a versatile full-stack developer with a passion for bridging technical solut
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI-OpenAI%20API-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 
+
+### 📈 GitHub Stats
+
+<a href="https://github.com/TmBrnr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TmBrnr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tim's GitHub Stats" />
+</a>
+
+<a href="https://github.com/TmBrnr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TmBrnr&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+
 ### 🌱 Current Focus
 
 I'm currently exploring:
