@@ -4,6 +4,7 @@
 <p>
   <a href="https://linkedin.com/in/tmbrnr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:tim@boernergroup.de"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TmBrnr&style=flat-square&color=blue" alt=""/>
 </p>
 
 Versatile full-stack developer passionate about bridging technical solutions and business needs. Specializing in innovative web applications, AI solutions, and optimizing business processes through technology.
@@ -43,6 +44,10 @@ Versatile full-stack developer passionate about bridging technical solutions and
 I once spoke at a tech conference about practical AI implementation strategies, sharing insights with over 200 attendees!
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TmBrnr&theme=dark" alt="TmBrnr's GitHub streak"/>
+</p>
 
 <p align="center">
   <i>Open to collaborations on innovative web and AI projects. Let's build something amazing together!</i>
