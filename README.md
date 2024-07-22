@@ -1,67 +1,75 @@
-## Hi there, I'm Tim Boerner 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2B92F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Tim+Boerner+%F0%9F%91%8B;Full+Stack+Developer;AI+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue" alt="Role">
-  <img src="https://img.shields.io/badge/Location-Berlin-green" alt="Location">
-  <img src="https://img.shields.io/badge/Expertise-Web%20Dev%20%7C%20AI%20%7C%20CRM-orange" alt="Expertise">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Role">
+  <img src="https://img.shields.io/badge/Location-Berlin-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Expertise-Web%20Dev%20%7C%20AI%20%7C%20CRM-orange?style=for-the-badge&logo=expertise&logoColor=white" alt="Expertise">
 </p>
 
-### 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-I'm a versatile full-stack developer with a passion for bridging technical solutions and business needs. Currently based in Berlin, I specialize in creating innovative web applications, implementing AI solutions, and optimizing business processes through technology.
+<p align="center">
+Versatile full-stack developer passionate about bridging technical solutions and business needs. Specializing in innovative web applications, AI solutions, and optimizing business processes through technology.
+</p>
 
-### 💼 Professional Highlights
+<h2 align="center">💼 Professional Highlights</h2>
 
-- 🌐 Developed scalable web applications using React, Node.js, and serverless architectures
-- 🧠 Implemented AI-powered solutions to automate content generation and improve user experiences
-- 📊 Built data-driven tools for business intelligence and customer insights
-- 🚀 Led cross-functional teams in agile environments to deliver high-impact projects
+<p align="center">
+  🌐 Scalable web apps with React & Node.js<br>
+  🧠 AI-powered automation solutions<br>
+  📊 Data-driven business intelligence tools<br>
+  🚀 Agile team leadership
+</p>
 
-### 🛠️ Technologies & Tools
+<h2 align="center">🛠️ Tech Stack</h2>
 
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-OpenAI%20API-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
 
+<h2 align="center">🌱 Current Focus</h2>
 
-### 📈 GitHub Stats
+<p align="center">
+  🔍 Advanced AI in web development<br>
+  ☁️ Serverless architecture<br>
+  ⚡ React performance optimization<br>
+  🤖 Machine learning for predictive analytics
+</p>
 
-<a href="https://github.com/TmBrnr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TmBrnr" />
-</a>
+<h2 align="center">📫 Get in Touch</h2>
 
-<a href="https://github.com/TmBrnr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TmBrnr" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/tmbrnr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tim@boernergroup.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+<h2 align="center">💡 Fun Fact</h2>
 
-### 🌱 Current Focus
-
-I'm currently exploring:
-
-- Advanced AI applications in web development
-- Serverless architectures for scalable solutions
-- Performance optimization in React applications
-- Machine learning for predictive analytics
-
-### 📫 Get in Touch
-
-- LinkedIn: [linkedin.com/in/tmbrnr](https://linkedin.com/in/tmbrnr)
-- Email: tim@boernergroup.de
-
-### 💡 Fun Fact
-
+<p align="center">
 I once spoke at a tech conference about practical AI implementation strategies, sharing insights with over 200 attendees!
+</p>
 
-### 🌍 Languages
+<h2 align="center">🌍 Languages</h2>
 
-- German (Native)
-- English (Fluent)
+<p align="center">
+  <img src="https://img.shields.io/badge/German-Native-green?style=for-the-badge" alt="German"/>
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English"/>
+</p>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TmBrnr&theme=dark" alt="TmBrnr's GitHub streak"/>
+</div>
 
 <p align="center">
   <i>Open to collaborations on innovative web and AI projects. Let's build something amazing together!</i>
