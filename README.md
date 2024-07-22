@@ -1,38 +1,39 @@
 ## Hi there, I'm Tim Boerner 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Technical%20CRM%20Manager-blue" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue" alt="Role">
   <img src="https://img.shields.io/badge/Location-Berlin-green" alt="Location">
-  <img src="https://img.shields.io/badge/Expertise-CRM%20%7C%20AI%20%7C%20Web%20Dev-orange" alt="Expertise">
+  <img src="https://img.shields.io/badge/Expertise-Web%20Dev%20%7C%20AI%20%7C%20CRM-orange" alt="Expertise">
 </p>
 
 ### 🚀 About Me
 
-I'm a seasoned developer bridging technical and business needs, currently working as a Technical CRM Manager at Fastic in Berlin. With a knack for managing technical requirements and facilitating communication between developers and CRM teams, I excel in stakeholder management and driving innovative solutions.
+I'm a versatile full-stack developer with a passion for bridging technical solutions and business needs. Currently based in Berlin, I specialize in creating innovative web applications, implementing AI solutions, and optimizing business processes through technology.
 
 ### 💼 Professional Highlights
 
-- 🧠 Implemented AI solutions for personalized communication, improving key KPIs
-- 📊 Optimized CRM campaigns, resulting in a 300% revenue increase
-- 🛠️ Built AI-powered CRM extension using Node.js/React with GenAI and RAG
-- 🤖 Created an automated recipe generator using LLMs and a multi-agent approach
+- 🌐 Developed scalable web applications using React, Node.js, and serverless architectures
+- 🧠 Implemented AI-powered solutions to automate content generation and improve user experiences
+- 📊 Built data-driven tools for business intelligence and customer insights
+- 🚀 Led cross-functional teams in agile environments to deliver high-impact projects
 
 ### 🛠️ Technologies & Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-OpenAI%20API-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 
 ### 🌱 Current Focus
 
-I'm currently exploring advanced AI applications in CRM systems and working on enhancing my skills in:
+I'm currently exploring:
 
-- Large Language Models (LLMs) for business applications
-- Serverless architectures for scalable CRM solutions
-- Advanced data analytics for customer insights
+- Advanced AI applications in web development
+- Serverless architectures for scalable solutions
+- Performance optimization in React applications
+- Machine learning for predictive analytics
 
 ### 📫 Get in Touch
 
@@ -41,7 +42,7 @@ I'm currently exploring advanced AI applications in CRM systems and working on e
 
 ### 💡 Fun Fact
 
-I've led a masterclass on practical CRM strategies and KPI success measurement, attended by over 200 people!
+I once spoke at a tech conference about practical AI implementation strategies, sharing insights with over 200 attendees!
 
 ### 🌍 Languages
 
@@ -51,5 +52,5 @@ I've led a masterclass on practical CRM strategies and KPI success measurement, 
 ---
 
 <p align="center">
-  <i>Open to collaborations and exciting projects in CRM, AI, and web development!</i>
+  <i>Open to collaborations on innovative web and AI projects. Let's build something amazing together!</i>
 </p>
