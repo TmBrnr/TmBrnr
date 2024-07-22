@@ -47,8 +47,7 @@ Versatile full-stack developer passionate about bridging technical solutions and
 <p align="center">
 Advanced AI in web development<br>
 Serverless architecture<br>
-React performance optimization<br>
-Machine learning for predictive analytics
+Use of LLMs in customer engament
 </p>
 
 <h3 align="center">🌍 Languages</h3>
