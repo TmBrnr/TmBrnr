@@ -59,7 +59,7 @@ German (Native) • English (Fluent)
 <h3 align="center">💡 Fun Fact</h3>
 
 <p align="center">
-I once spoke at a tech conference about practical AI implementation strategies, sharing insights with over 200 attendees!
+I love space!
 </p>
 
 <p align="center">
