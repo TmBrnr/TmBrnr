@@ -40,6 +40,7 @@ Versatile full-stack developer passionate about bridging technical solutions and
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 <h3 align="center">🌱 Current Focus</h3>
