@@ -1,5 +1,5 @@
 <h1 align="center">Tim Boerner</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Berlin</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Dresden</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tmbrnr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
