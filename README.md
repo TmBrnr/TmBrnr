@@ -56,17 +56,3 @@ Use of LLMs in customer engament
 <p align="center">
 German (Native) • English (Fluent)
 </p>
-
-<h3 align="center">💡 Fun Fact</h3>
-
-<p align="center">
-I love space!
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TmBrnr&theme=dark" alt="TmBrnr's GitHub streak"/>
-</p>
-
-<p align="center">
-  <i>Open to collaborations on innovative web and AI projects. Let's build something amazing together!</i>
-</p>
