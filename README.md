@@ -17,7 +17,6 @@ Versatile full-stack developer passionate about bridging technical solutions and
 🌐 Scalable web apps with React & Node.js<br>
 🧠 AI-powered automation solutions<br>
 📊 Data-driven business intelligence tools<br>
-🚀 Agile team leadership
 </p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
