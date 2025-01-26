@@ -42,14 +42,6 @@ Versatile full-stack developer passionate about bridging technical solutions and
   <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-<h3 align="center">🌱 Current Focus</h3>
-
-<p align="center">
-Advanced AI in web development<br>
-Serverless architecture<br>
-Use of LLMs in customer engament
-</p>
-
 <h3 align="center">🌍 Languages</h3>
 
 <p align="center">
