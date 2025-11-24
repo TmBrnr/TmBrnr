@@ -1,5 +1,5 @@
 <h1 align="center">Tim Boerner</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Dresden</h3>
+<h3 align="center">Solution Consultant @ Braze | Full Stack Developer | Berlin</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tmbrnr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-Versatile full-stack developer passionate about bridging technical solutions and business needs. Specializing in innovative web applications, AI solutions, and optimizing business processes through technology.
+Solution Consultant and Full-Stack Developer based in Berlin. Passionate about bridging technical solutions and business needs. Currently specializing in customer engagement strategies, technical integrations, and AI solutions at Braze.
 </p>
 
 <h3 align="center">💼 Professional Highlights</h3>
