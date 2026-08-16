@@ -1,50 +1,72 @@
 <div align="center">
 
-# Tim Boerner
+# Hey, I'm Tim 👋
 
-### Solutions Consultant & Sales Engineer · Braze · Singapore / APAC
+### I make complex technology easier to understand, evaluate, and use.
 
-I turn technical complexity into clear business value—connecting AI, data, customer engagement, and product strategy.
+Solutions Consultant & Sales Engineer at **Braze**  
+Based in **Singapore**, working across **APAC**
 
-[Portfolio](https://www.timboerner.com) · [LinkedIn](https://www.linkedin.com/in/tmbrnr/) · [Email](mailto:tim@boernergroup.de)
+[Explore my portfolio](https://www.timboerner.com) · [Connect on LinkedIn](https://www.linkedin.com/in/tmbrnr/) · [Say hello](mailto:tim@boernergroup.de)
 
 </div>
 
-## About
+---
 
-I'm a solutions consultant and computer scientist working at the intersection of technical architecture and commercial strategy. My background spans full-stack growth engineering, technical CRM, customer engagement, and applied AI.
+> I work somewhere between the whiteboard and the working product—turning ambitious ideas into clear architectures, convincing demos, and practical next steps.
 
-I enjoy making complex systems understandable, testable, and useful—from data flows and integrations to demos, prototypes, and production-ready experiences.
+## What I do
 
-## Current focus
+🧭 **Find the path**  
+Translate business goals into technical solutions that teams can understand and act on.
 
-- Designing practical AI and automation workflows
-- Translating customer goals into scalable technical solutions
-- Building demos and prototypes that make data flows tangible
-- Connecting product, engineering, and go-to-market teams across APAC
+🧪 **Make it tangible**  
+Build prototypes, integrations, and demos that answer the important questions early.
 
-## Selected work
+🧠 **Apply AI with purpose**  
+Explore automation and intelligent experiences grounded in real workflows—not novelty.
 
-| Project | What it demonstrates |
+🔗 **Connect the system**  
+Bring product, engineering, data, and go-to-market teams into the same conversation.
+
+## Current coordinates
+
+| | |
 | --- | --- |
-| [Braze Vision](https://github.com/TmBrnr/BrazeVision) | A Chrome extension that turns Liquid templating into a clearer, human-readable visual hierarchy. |
-| [Kafka to Braze Microservice](https://github.com/TmBrnr/Braze-Kafka-Sample) | A real-time event-streaming demo using Kafka, FastAPI, React, WebSockets, filtering, and Braze API integration. |
-| [Wego Workshop](https://github.com/TmBrnr/wegoworkshop) | A travel-booking SPA built to demonstrate Braze Web SDK integrations and customer-engagement use cases. |
-| [boernergroup.de](https://github.com/TmBrnr/boernergroup.de) | A statically generated Next.js site with structured content, strong metadata, and privacy-conscious delivery. |
+| **Role** | Solutions Consultant & Sales Engineer |
+| **Focus** | AI · Data · Customer engagement · Product strategy |
+| **Region** | Singapore · APAC |
+| **Languages** | German · English |
 
-## Toolkit
+## Technology, when it is useful
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `FastAPI` · `SQL` · `REST APIs` · `Kafka` · `WebSockets` · `Braze` · `Vercel` · `Google Cloud`
+**Build**  
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `FastAPI`
 
-## How I work
+**Connect**  
+`REST APIs` · `WebSockets` · `Kafka` · `SQL` · `Braze`
 
-- Technical depth, commercial clarity
-- Data before assumptions
-- AI grounded in real workflows
-- Fast prototypes, deliberate production decisions
+**Ship**  
+`Vercel` · `Google Cloud` · `GitHub`
+
+## A few things I believe
+
+- Technical depth should create commercial clarity.
+- Good demos tell a story; great demos answer a decision.
+- Data beats assumptions.
+- AI is most valuable when it disappears into a useful workflow.
+- The best architecture is one a team can confidently operate.
 
 ---
 
 <div align="center">
-  <sub>Based in Singapore · Working across APAC · German (native) · English (fluent)</sub>
+
+### Have an interesting problem?
+
+I'm always happy to compare notes on solution design, applied AI, customer engagement, and turning complicated systems into clear stories.
+
+[**Let's connect →**](https://www.linkedin.com/in/tmbrnr/)
+
+<sub>Singapore · APAC · Usually somewhere between strategy and a prototype</sub>
+
 </div>
