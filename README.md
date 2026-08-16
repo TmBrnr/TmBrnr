@@ -1,49 +1,50 @@
-<h1 align="center">Tim Boerner</h1>
-<h3 align="center">Solution Consultant @ Braze | Full Stack Developer | Berlin</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/tmbrnr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tim@boernergroup.de"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=TmBrnr&style=for-the-badge&color=blue" alt=""/>
-</p>
+# Tim Boerner
 
-<p align="center">
-Solution Consultant and Full-Stack Developer based in Berlin. Passionate about bridging technical solutions and business needs. Currently specializing in customer engagement strategies, technical integrations, and AI solutions at Braze.
-</p>
+### Solutions Consultant & Sales Engineer · Braze · Singapore / APAC
 
-<h3 align="center">💼 Professional Highlights</h3>
+I turn technical complexity into clear business value—connecting AI, data, customer engagement, and product strategy.
 
-<p align="center">
-🌐 Scalable web apps with React & Node.js<br>
-🧠 AI-powered automation solutions<br>
-📊 Data-driven business intelligence tools<br>
-</p>
+[Portfolio](https://www.timboerner.com) · [LinkedIn](https://www.linkedin.com/in/tmbrnr/) · [Email](mailto:tim@boernergroup.de)
 
-<h3 align="center">🛠️ Tech Stack</h3>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-</p>
+## About
 
-<h3 align="center">🌍 Languages</h3>
+I'm a solutions consultant and computer scientist working at the intersection of technical architecture and commercial strategy. My background spans full-stack growth engineering, technical CRM, customer engagement, and applied AI.
 
-<p align="center">
-German (Native) • English (Fluent)
-</p>
+I enjoy making complex systems understandable, testable, and useful—from data flows and integrations to demos, prototypes, and production-ready experiences.
+
+## Current focus
+
+- Designing practical AI and automation workflows
+- Translating customer goals into scalable technical solutions
+- Building demos and prototypes that make data flows tangible
+- Connecting product, engineering, and go-to-market teams across APAC
+
+## Selected work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Braze Vision](https://github.com/TmBrnr/BrazeVision) | A Chrome extension that turns Liquid templating into a clearer, human-readable visual hierarchy. |
+| [Kafka to Braze Microservice](https://github.com/TmBrnr/Braze-Kafka-Sample) | A real-time event-streaming demo using Kafka, FastAPI, React, WebSockets, filtering, and Braze API integration. |
+| [Wego Workshop](https://github.com/TmBrnr/wegoworkshop) | A travel-booking SPA built to demonstrate Braze Web SDK integrations and customer-engagement use cases. |
+| [boernergroup.de](https://github.com/TmBrnr/boernergroup.de) | A statically generated Next.js site with structured content, strong metadata, and privacy-conscious delivery. |
+
+## Toolkit
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `FastAPI` · `SQL` · `REST APIs` · `Kafka` · `WebSockets` · `Braze` · `Vercel` · `Google Cloud`
+
+## How I work
+
+- Technical depth, commercial clarity
+- Data before assumptions
+- AI grounded in real workflows
+- Fast prototypes, deliberate production decisions
+
+---
+
+<div align="center">
+  <sub>Based in Singapore · Working across APAC · German (native) · English (fluent)</sub>
+</div>
